@@ -6,4 +6,4 @@ Pumps are the lifeblood of any fluid manufacturing process. It’s a signature p
 - How do we ensure that the pump can be easily maintained? 
 - How can the knowledge be easily transferred to the customers maintenance team? 
 
-I decided to parse through all the pumps I have worked in all my project and built a machine learning system to help engineer better design pumps
+I decided to parse through all the pumps I have worked in all my projects and built a machine learning system to help engineer better design pumps
