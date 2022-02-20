@@ -1,9 +1,6 @@
-# pump-failure-predictor
+# NBA-Playoff-predictor
 
-Pumps are the lifeblood of any fluid manufacturing process. It’s a signature piece of manufacturing equipment that transports fluid from one area to another. Doing so allows for commercial production of any item to get safely and effectively to the consumer. While a pump can be viewed a simple piece of a equipment that engineers design, if there is not enough information they can become complex, hard to maintain, and cause massive amounts of manufacturing downtime. Pump manufacturers sell a pump and do not necessarily understand all the parameters in which the pump will need to work. Engineers need to consider questions such as
+NBA Playoff Predictor with Machine Learning
 
-- What can we do to minimize downtime in the manufacturing process? 
-- How do we ensure that the pump can be easily maintained? 
-- How can the knowledge be easily transferred to the customers maintenance team? 
+The National Basketball Association (NBA) is comprised of 30 teams split between two conferences. Each team plays 82 regular season games and based on their respective win-loss record they are ranked. The top 8 teams will make the playoffs. The goal of this machine learning model is to predict a teams win-loss percentage and then predict the teams that will make the NBA playoffs. 
 
-I decided to parse through all the pumps I have worked on in all my projects and build a machine learning system to help engineer better design pumps.
